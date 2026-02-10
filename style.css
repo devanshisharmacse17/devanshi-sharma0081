@@ -1,0 +1,14 @@
+h2 {
+    color: purple;
+    text-align: center;
+}
+
+.text {
+    background-color: lightblue;
+    padding: 10px;
+    display: inline-block;
+}
+.highlight {
+    font-weight: bold;
+    color: red;
+}
